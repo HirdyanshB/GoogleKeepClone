@@ -37,4 +37,4 @@ A simple Google Keep clone built with React.js, allowing users to create, view, 
 ## Usage
 
 - To add a new note, enter a title and description in the input fields and click the **+** button.
-- To delete a note, click the **🗑️** (delete) icon next to the note you want to remove.
+- To delete a note, click the **🗑️** icon next to the note you want to remove.
