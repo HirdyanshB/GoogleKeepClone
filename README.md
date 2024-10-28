@@ -1,12 +1,12 @@
 # Google Keep Clone
 
-A simple Google Keep clone built with React.js, allowing users to create, view, and delete notes with titles and descriptions.
+A Google Keep clone built with React.js, allowing users to create, view, and delete notes with titles and descriptions.
 
 ## Features
 
 - Add notes with a title and description
 - Delete existing notes
-- Responsive design for optimal viewing on different devices
+- Responsive mobile-first design for optimal viewing on different devices
 
 ## Technologies Used
 
